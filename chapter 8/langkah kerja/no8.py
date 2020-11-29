@@ -1,0 +1,7 @@
+e = (6, 8, 10, 12, 13, 14, 18, 22)
+min = min(e)
+max = max(e)
+sum = sum(e)
+print('min elemen e:', min)
+print('max elemen e:', max)
+print('sum elemen e:', sum)
